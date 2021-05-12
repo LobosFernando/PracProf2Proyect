@@ -62,7 +62,9 @@ Futuras implementaciones:
     - dar de  alta el turno y la mesa de examen
     - 
 
+Datos que necesito para cada requerimiento
 
+Diagramas casos de uso
 
 
 
