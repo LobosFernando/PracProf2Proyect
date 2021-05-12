@@ -31,6 +31,7 @@ Futuras implementaciones:
  - Logearse
     - Correo electronico
     - Contraseña
+ - Recuperar contrseña
 
  - Modificar sus datos
     Datos:
@@ -43,13 +44,24 @@ Futuras implementaciones:
  - Acciones del Alumno
     - Revisar información de las carreras
     - Revisar las fechas de examenes
+    - Anotarse a las materias
     - Anotarse en materias a rendir
-    - Revisar notas de materias
+    - Revisar notas de materias (duda)
+    - Cancelar inscripcion a examenes
 
  - Administrador
     - Asignar fechas examenes
     - Asignar notas alumnos
-    
+
+    - dar de alta materias
+    - consultar materias
+    - establecer correlativas
+    - ABM mesa de examenes
+    - ABM Correlativas
+    - Generar acta por cada mesa de examen
+    - dar de  alta el turno y la mesa de examen
+    - 
+
 
 
 
