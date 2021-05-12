@@ -12,6 +12,48 @@ Futuras implementaciones:
  - El alumno debe poder subir documentacion en formato .pdf o .doc
  - El alumno debe ser capaz de registrarse en cada materia que desee cursar.
  - El alumno debe ser capaz de ver sus notas por año y por materia cursada.
+
+ -------------------------------------------------------------------------------------------------------
+
+ Alumno.
+
+ - Registro
+    Datos: 
+        - Nombre
+        - Apellido
+        - DNI o libreta de enrolamiento
+        - Fecha Nacimiento
+        - Correo electronico
+        - Contraseña
+        - Carrera que cursa
+        - Materias que cursa
+
+ - Logearse
+    - Correo electronico
+    - Contraseña
+
+ - Modificar sus datos
+    Datos:
+        - Correo electronico
+        - Nombre
+        - Apellido
+        - Carrera que cursa
+        - Materias que cursa
+
+ - Acciones del Alumno
+    - Revisar información de las carreras
+    - Revisar las fechas de examenes
+    - Anotarse en materias a rendir
+    - Revisar notas de materias
+
+ - Administrador
+    - Asignar fechas examenes
+    - Asignar notas alumnos
+    
+
+
+
+
   
   
   
